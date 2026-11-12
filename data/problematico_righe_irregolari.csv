@@ -1,0 +1,5 @@
+data,macchina,temperatura,pressione
+2026-04-01,PRESSA-01,182,4.2
+2026-04-01,PRESSA-02,179
+2026-04-02,PRESSA-01,185,4.4,controllare sensore
+2026-04-02,PRESSA-02,181,4.1

@@ -1,0 +1,15 @@
+   RAPPORTO DI PRODUZIONE   
+
+
+Lotto:       A-0097
+
+
+Macchina:    PRESSA-02
+Stato:       OK       OK
+
+
+Note:     controllo     da     ripetere.
+
+
+
+Fine rapporto.

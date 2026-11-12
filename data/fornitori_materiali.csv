@@ -1,0 +1,6 @@
+codice_fornitore,nome_fornitore,materiale,quantita,unita,conforme
+F001,Metalmeccanica Rossi,Acciaio inox,2500,kg,si
+F002,Polimeri Adriatica,Granuli di gomma,1800,kg,si
+F003,Tecnica Industriale,Guarnizioni,12000,pezzi,si
+F004,Componenti Marche,Valvole,750,pezzi,no
+F005,Materiali Europa,Alluminio,950,kg,si

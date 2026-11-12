@@ -1,0 +1,6 @@
+15/01/2026
+Procedura di produzione dei componenti
+
+La produzione inizia con la verifica delle materie prime e della documentazione fornita dai fornitori. Gli operatori controllano il codice del materiale, il numero del lotto e il certificato di conformità.
+
+Durante la lavorazione, i parametri delle macchine devono rispettare i valori indicati nella scheda tecnica. Al termine del ciclo, il reparto qualità controlla un campione del lotto e registra i risultati. Se vengono rilevate anomalie, la produzione viene sospesa e il responsabile viene informato.

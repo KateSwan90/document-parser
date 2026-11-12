@@ -1,0 +1,3 @@
+Gestione del magazzino
+
+La gestione efficiente del magazzino consente di mantenere sotto controllo le scorte e ridurre i ritardi nelle consegne. Ogni materiale in entrata viene identificato con un codice interno e registrato nel gestionale aziendale. Le quantità disponibili devono essere aggiornate dopo ogni prelievo e dopo ogni ricevimento. Per i componenti critici è necessario definire una scorta minima, così da evitare interruzioni della produzione. Le differenze tra le quantità fisiche e quelle registrate devono essere analizzate e corrette.
