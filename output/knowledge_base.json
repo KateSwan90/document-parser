@@ -1,0 +1,74 @@
+[
+    {
+        "title": "rapporto_energia",
+        "date": null,
+        "content": "# Rapporto sull'efficienza energetica\n\nIl monitoraggio dei consumi energetici permette di individuare possibili sprechi e migliorare l'efficienza degli impianti. I dati vengono raccolti mensilmente e confrontati con i volumi di produzione.\n\nTra le azioni suggerite rientrano la sostituzione delle lampade tradizionali con sistemi LED, la manutenzione dei compressori e lo spegnimento delle apparecchiature non utilizzate. È inoltre utile analizzare i consumi durante i periodi di fermo macchina.\n\n**Indicatore principale:** consumo energetico per unità prodotta.\n",
+        "source_format": "md"
+    },
+    {
+        "title": "manutenzione_impianti",
+        "date": null,
+        "content": "Manutenzione degli impianti\n\nLa manutenzione preventiva degli impianti è fondamentale per garantire la continuità produttiva. Le verifiche periodiche includono il controllo dei motori elettrici, la lubrificazione delle parti mobili, la pulizia dei filtri e l'ispezione dei sistemi di sicurezza. Gli interventi devono essere pianificati in modo da limitare le interruzioni della produzione. Dopo ogni attività, il tecnico aggiorna il registro di manutenzione indicando la data, il macchinario interessato, le operazioni eseguite e gli eventuali ricambi utilizzati.\n",
+        "source_format": "txt"
+    },
+    {
+        "title": "gestione_magazzino",
+        "date": null,
+        "content": "Gestione del magazzino\n\nLa gestione efficiente del magazzino consente di mantenere sotto controllo le scorte e ridurre i ritardi nelle consegne. Ogni materiale in entrata viene identificato con un codice interno e registrato nel gestionale aziendale. Le quantità disponibili devono essere aggiornate dopo ogni prelievo e dopo ogni ricevimento. Per i componenti critici è necessario definire una scorta minima, così da evitare interruzioni della produzione. Le differenze tra le quantità fisiche e quelle registrate devono essere analizzate e corrette.\n",
+        "source_format": "txt"
+    },
+    {
+        "title": "consumi_energetici",
+        "date": null,
+        "content": "# Monitoraggio dei consumi energetici\n\nLo stabilimento registra mensilmente i consumi di energia elettrica e li confronta con il volume di produzione.\n\n| Indicatore | Descrizione |\n|---|---|\n| Consumo totale | Energia utilizzata nel mese |\n| Produzione | Numero di unità prodotte |\n| Consumo specifico | Energia utilizzata per unità prodotta |\n\nL'analisi consente di individuare variazioni anomale e valutare interventi di miglioramento, come la manutenzione dei compressori e l'installazione di illuminazione LED.\n",
+        "source_format": "md"
+    },
+    {
+        "title": "controllo_qualita",
+        "date": null,
+        "content": "# Controllo qualità dei componenti\n\n## Scopo\nVerificare che i componenti prodotti rispettino le specifiche tecniche e i requisiti del cliente.\n\n## Controlli\n- Misurazione delle dimensioni principali.\n- Ispezione visiva della superficie.\n- Verifica della documentazione del lotto.\n- Registrazione dei risultati.\n\n## Gestione delle non conformità\nI prodotti non conformi devono essere identificati e separati. Il responsabile qualità analizza la causa del problema e documenta le azioni correttive.\n",
+        "source_format": "md"
+    },
+    {
+        "title": "procedura_produzione",
+        "date": null,
+        "content": "Procedura di produzione dei componenti\n\nLa produzione inizia con la verifica delle materie prime e della documentazione fornita dai fornitori. Gli operatori controllano il codice del materiale, il numero del lotto e il certificato di conformità.\n\nDurante la lavorazione, i parametri delle macchine devono rispettare i valori indicati nella scheda tecnica. Al termine del ciclo, il reparto qualità controlla un campione del lotto e registra i risultati. Se vengono rilevate anomalie, la produzione viene sospesa e il responsabile viene informato.\n",
+        "source_format": "txt"
+    },
+    {
+        "title": "problematico_unicode",
+        "date": null,
+        "content": "# Scheda tecnica — simboli e caratteri speciali\n\nIl componente misura 12 µm? No: 12 mm.\n\n- Tolleranza: ±0,1 mm\n- Angolo: 45°\n- Temperatura: 80 °C\n- Valore economico: 1.250,50 €\n- Simboli: Ω, µ, Δ, →, ←, ✓, ♻, ★\n\n## Nota\nQuesti caratteri sono intenzionali: il file è valido e serve a verificare la lettura UTF-8.\n",
+        "source_format": "md"
+    },
+    {
+        "title": "problematico_spazi",
+        "date": null,
+        "content": "   RAPPORTO DI PRODUZIONE   \n\n\nLotto:       A-0097\n\n\nMacchina:    PRESSA-02\nStato:       OK       OK\n\n\nNote:     controllo     da     ripetere.\n\n\n\nFine rapporto.\n",
+        "source_format": "txt"
+    },
+    {
+        "title": "problematico_caratteri",
+        "date": null,
+        "content": "Rapporto tecnico — reparto lavorazione\n\nTemperatura: 23 °C; pressione: 1,8 bar; tolleranza: ±0,05 mm.\nComponenti: Ø 12 mm / Δ = 0,03 mm / controllo n° 7.\nNota operatore: “pezzo OK?” … attenzione !!! ### @@@ € £ ¥\nAccenti italiani: qualità, sicurezza, produzione, perché, già, più.\nSimboli Unicode: Ω µ → ← ★ ♻ ✓ ✗\n",
+        "source_format": "txt"
+    },
+    {
+        "title": "problematico_formattazione",
+        "date": null,
+        "content": "# # # Rapporto ??? ///\n\n## Produzione [NON VERIFICATA\n\n**Stato:** `OK` ***forse***\n\n- Controllo: ✓\n- Misura: ± 0,2 mm\n- Nota: \"pressione > limite ???\"\n\n| Macchina | Stato\n|---|---|\n| PRESSA-01 | OK\n| PRESSA-02 | ???\n\nTesto finale con accenti: manutenzione, qualità, perché, già.\n",
+        "source_format": "md"
+    },
+    {
+        "title": "produzione_mensile",
+        "date": null,
+        "content": "mese reparto pezzi_prodotti pezzi_scartati ore_lavorate\n2026-01 Stampaggio 12500 145 320\n2026-01 Assemblaggio 9800 72 280\n2026-02 Stampaggio 13100 132 328\n2026-02 Assemblaggio 10250 68 292\n2026-03 Stampaggio 12850 119 315\n2026-03 Assemblaggio 10600 61 300\n",
+        "source_format": "csv"
+    },
+    {
+        "title": "fornitori_materiali",
+        "date": null,
+        "content": "codice_fornitore nome_fornitore materiale quantita unita conforme\nF001 Metalmeccanica Rossi Acciaio inox 2500 kg si\nF002 Polimeri Adriatica Granuli di gomma 1800 kg si\nF003 Tecnica Industriale Guarnizioni 12000 pezzi si\nF004 Componenti Marche Valvole 750 pezzi no\nF005 Materiali Europa Alluminio 950 kg si\n",
+        "source_format": "csv"
+    }
+]
