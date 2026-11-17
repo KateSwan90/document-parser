@@ -1,0 +1,17 @@
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "document-parser"
+version = "0.1.0"
+description = "A Python document parser for TXT, Markdown and CSV files"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools]
+py-modules = ["models", "parsers", "index", "main"]
+
+[project.scripts]
+document-parser = "main:main"
