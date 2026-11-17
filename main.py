@@ -12,7 +12,8 @@ from index import KnowledgeBase
 
 
 # Definizione delle cartelle del progetto
-PROJECT_DIR = Path(__file__).parent
+
+PROJECT_DIR = Path.cwd()
 DATA_DIR = PROJECT_DIR / "data"
 OUTPUT_DIR = PROJECT_DIR / "output"
 
